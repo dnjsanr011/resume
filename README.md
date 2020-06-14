@@ -41,7 +41,7 @@ __3. 활동내용__
 > 졸업   
    
 __4. 관심분야__   
-* <span style="color:blue">정보보안전문가</span>   
+* <span style="color:blue">정보보안</span>   
 * 인공지능   
 * 빅데이터    
 
